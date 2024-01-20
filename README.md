@@ -1,4 +1,4 @@
-### GunViolence_Analysis
+### Gun Violence Analysis
 
 In this project, I am using three separate data files, each from a distinct source. The first one is a dataset compiling information on all gun violence incidents in the US from 2013-2018. The second dataset only looks at mass shooting incidents, but it covers years 1982-2019. The third dataset has information on gun ownership and suicide rate estimates from 1980-2016. 
 
