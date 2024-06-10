@@ -114,3 +114,4 @@ This project represents a significant personal commitment to understanding gun v
 
 ## Acknowledgements
 Thank you for exploring this comprehensive analysis of gun violence and mass shootings in the US. Your feedback and contributions are valued as we continue to seek data-driven solutions to this pressing issue.
+This is an individual project completed as an assignment for UC Davis Data Management course BAX-421.
